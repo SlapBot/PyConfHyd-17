@@ -22,3 +22,5 @@ Slides:
 
 - [Web](https://docs.google.com/presentation/d/1VwDzX5EDP4A7qoZbzzjKHqZMaItelN-fh5siSniodU0/edit?usp=sharing) 
 - [PDF](https://github.com/SlapBot/PyData-Conf/blob/master/Pyconf%20Presentation.pdf)
+- [Other Talks In Event](https://github.com/HydPy/PyConf17Slides)
+
